@@ -5,8 +5,9 @@ This is a just fun knock knock joke with a haiku bonus.
 
 Install [twilio-cli](https://www.twilio.com/docs/twilio-cli/quickstart) then run `twilio login` to configure it.
 
+Clone the repo, install dependencies, and start the development server.
 ```
-git clone https://github.com/hatertron3000/knock-knock
+git clone https://github.com/hatertron3000/twilio-knock-knock knock-knock
 cd knock-knock
 npm install
 npm run dev
